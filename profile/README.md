@@ -32,7 +32,7 @@
 
 [Instagram](https://www.instagram.com/web3id/)
 
-[Channel Telegram](https://t.me/web3_idn)
+[Channel Telegram](https://t.me/BitsanSecID)
 
 [Group Telegram](https://t.me/web3_idn_group)
 
