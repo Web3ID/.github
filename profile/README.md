@@ -14,7 +14,7 @@
 
 
 ## Social Media
-[support@web30.my.id](mailto:support@web30.my.id)
+[Email](mailto:web3idn.crypto@mail3.me)
 
 [Website](https://web30.my.id/)
 
@@ -28,7 +28,7 @@
 
 [Group Facebook](https://web.facebook.com/groups/web3id/)
 
-[Twitter](https://twitter.com/Web30_ID)
+[Twitter](https://twitter.com/Web3IDN)
 
 [Instagram](https://www.instagram.com/web3id/)
 
