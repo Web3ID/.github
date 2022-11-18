@@ -24,6 +24,8 @@
 
 [Github](https://github.com/Web3ID)
 
+[Dev.To](https://dev.to/web3id)
+
 [Facebook](https://web.facebook.com/web3id)
 
 [Group Facebook](https://web.facebook.com/groups/web3id/)
@@ -32,7 +34,7 @@
 
 [Instagram](https://www.instagram.com/web3id/)
 
-[Channel Telegram](https://t.me/BitsanSecID)
+[Channel Telegram](https://t.me/https://t.me/web3_idn)
 
 [Group Telegram](https://t.me/web3_idn_group)
 
