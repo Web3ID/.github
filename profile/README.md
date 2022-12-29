@@ -14,7 +14,10 @@
 
 
 ## Social Media
+
 [Email](mailto:web3idn.crypto@mail3.me)
+
+[Newsletters](https://web3idn.substack.com/)
 
 [Website](https://web30.my.id/)
 
@@ -33,6 +36,8 @@
 [Twitter](https://twitter.com/Web3IDN)
 
 [Instagram](https://www.instagram.com/web3id/)
+
+[LinkedIn](https://www.linkedin.com/company/web3id/)
 
 [Channel Telegram](https://t.me/https://t.me/web3_idn)
 
