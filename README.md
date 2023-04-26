@@ -1,2 +1,2 @@
 # Profile Web3ID DAO
-## Build Decentralized Apps
+## Advancing blockchain education, research, resources and development Web3 Indonesia
