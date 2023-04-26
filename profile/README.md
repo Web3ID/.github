@@ -19,9 +19,7 @@
 
 [Newsletters](https://web3idn.substack.com/)
 
-[Website](https://web30.my.id/)
-
-[Blog](https://dapps.my.id)
+[Website](https://www.web30.my.id/)
 
 [Medium](https://medium.com/@web3id)
 
@@ -39,8 +37,8 @@
 
 [LinkedIn](https://www.linkedin.com/company/web3id/)
 
-[Channel Telegram](https://t.me/https://t.me/web3_idn)
+[Channel Telegram](https://t.me/Web3IDN)
 
-[Group Telegram](https://t.me/web3_idn_group)
+[Group Telegram](https://t.me/Web3IDN_Chat)
 
 [Quora](https://web3id.quora.com/)
