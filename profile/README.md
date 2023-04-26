@@ -25,6 +25,8 @@ Kami juga berusaha untuk menjadi pusat penelitian dan pengembangan blockchain di
 
 [Website](https://www.web30.my.id/)
 
+[Keybase](https://keybase.io/team/web3id)
+
 [Medium](https://medium.com/@web3id)
 
 [Github](https://github.com/Web3ID)
