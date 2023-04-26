@@ -1,16 +1,20 @@
 ## Hi Indonesia Developers 👋
-# Web3Indonesia
-## Welcome To New Decentralized World! Our Mission Is Simple, Let's Make Blockchain And Cryptocurrency Easy To World!
+# Web3 Indonesia
+## 👩‍💻 Advancing blockchain education, research, resources and development Web3 Indonesia.
 
-## 🙋‍♀️ Blockchain Resources Indonesia – Decentralized ID
+Web3 Indonesia atau Web3ID adalah platform edukasi, sumber penelitian sekaligus sumber daya pembangunan ekosistem blockchain & web3 berbasis di Indonesia.
 
-## 🌈 Build From Any Idea, I Will Share All About Knowledge Base. So That Anyone Can Come To Learn And Earn With Us.
+Fokus kami ingin membangun Komunitas open source, sehingga siapapun bisa datang untuk belajar dan berkembang bersama terutama dibidang blockchain.
 
-## 👩‍💻 Useful resources - here community find our [docs](https://web30.my.id/docs)
+## Visi Misi
 
-## 👩‍💻 Blockchain Tech
+一 Visi Web3ID adalah menjadi platform edukasi dan sumber daya terdepan dalam membangun ekosistem blockchain dan web3 di Indonesia. Kami ingin menciptakan komunitas yang terbuka dan inklusif, di mana siapa saja dapat belajar dan berkontribusi untuk memajukan teknologi blockchain di Indonesia.
 
-### Technology Is A New Thing That Cannot Be Separated From Humans Today, We Really Need It But We Have To Learn A Lot More, Like A Web Development, Blockchain Tecnology And Cryptocurrency. New For Open Money And Dapps or Web3 For Open Web.
+
+一 Misi Web3ID adalah menyediakan akses terhadap pengetahuan dan sumber daya berkualitas tentang teknologi blockchain dan web3 kepada siapa saja yang tertarik. Kami berkomitmen untuk mengembangkan dan mendukung komunitas open source yang beragam, dan memperkuat kolaborasi antara perusahaan, pemerintah, dan masyarakat untuk mempromosikan adopsi teknologi blockchain di Indonesia.
+
+
+Kami juga berusaha untuk menjadi pusat penelitian dan pengembangan blockchain di Indonesia, dengan menghasilkan penelitian-penelitian yang inovatif dan solusi-solusi yang praktis untuk memecahkan masalah-masalah yang dihadapi oleh masyarakat Indonesia. Dalam melakukan semua ini, kami memprioritaskan integritas, transparansi, dan partisipasi masyarakat, demi membangun ekosistem blockchain dan web3 yang adil dan berkelanjutan di Indonesia.
 
 
 ## Social Media
