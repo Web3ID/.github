@@ -45,6 +45,6 @@ Kami juga berusaha untuk menjadi pusat penelitian dan pengembangan blockchain di
 
 [Channel Telegram](https://t.me/Web3IDN)
 
-[Group Telegram](https://t.me/Web3IDN_Chat)
+[Group Telegram](https://t.me/web3_idn_group)
 
 [Quora](https://web3id.quora.com/)
