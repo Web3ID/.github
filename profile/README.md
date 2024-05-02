@@ -23,7 +23,9 @@ Kami juga berusaha untuk menjadi pusat penelitian dan pengembangan blockchain di
 
 [Newsletters](https://web3idn.substack.com/)
 
-[Website](https://www.web30.my.id/)
+[Terminal Blockchain](https://www.web30.my.id/)
+
+[Website](https://www.w3b.my.id)
 
 [Keybase](https://keybase.io/team/web3id)
 
